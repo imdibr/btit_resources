@@ -1,1 +1,1 @@
-# btit_resources
+# Resource repo for BTIT
