@@ -26,8 +26,6 @@ This repository contains:
 - Categorised question sets for targeted preparation.  
 - Problem-solving tips and tricks for each topic.  
 
----
-
 ## 📖 How to Use  
 
 1. Browse through the categories listed in [Coding Topics and Resources](#coding-topics-and-resources).  
