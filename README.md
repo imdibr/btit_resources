@@ -3,7 +3,6 @@
 Welcome to the **BTIT Resources Repository**! 🎉  
 This repository provides a curated collection of resources for coding enthusiasts, featuring links to **important LeetCode and coding questions** to help you excel in competitive programming, interviews, and problem-solving.
 
----
 
 ## 🚀 Table of Contents  
 1. [Introduction](#introduction)  
