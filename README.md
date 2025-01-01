@@ -64,7 +64,6 @@ This repository contains:
 ### [...More Topics](#)  
 Stay tuned for more topics like **Bit Manipulation**, **Sliding Window**, **Backtracking**, and more!
 
----
 
 ## 🌟 Contributing  
 
