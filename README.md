@@ -17,7 +17,6 @@ This repository provides a curated collection of resources for coding enthusiast
 4. [Contributing](#contributing)  
 5. [Acknowledgements](#acknowledgements)  
 
----
 
 ## 🧠 Introduction  
 
