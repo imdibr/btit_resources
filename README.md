@@ -3,14 +3,6 @@
 Welcome to the **BTIT Resources Repository**! 🎉  
 This repository provides a curated collection of resources for coding enthusiasts, featuring links to **important LeetCode and coding questions** to help you excel in competitive programming, interviews, and problem-solving.
 
-
-## 📚 Coding Topics and Resources  
-
-### 📌 Arrays  
-- **LeetCode Easy**: [Two Sum](https://leetcode.com/problems/two-sum/)  
-- **LeetCode Medium**: [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  
-- **LeetCode Hard**: [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  
-
 ### 📌 Strings  
 - **LeetCode Easy**: [Valid Anagram](https://leetcode.com/problems/valid-anagram/)  
 - **LeetCode Medium**: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
