@@ -4,20 +4,6 @@ Welcome to the **BTIT Resources Repository**! 🎉
 This repository provides a curated collection of resources for coding enthusiasts, featuring links to **important LeetCode and coding questions** to help you excel in competitive programming, interviews, and problem-solving.
 
 
-## 🚀 Table of Contents  
-1. [Introduction](#introduction)  
-2. [How to Use](#how-to-use)  
-3. [Coding Topics and Resources](#coding-topics-and-resources)  
-   - [Arrays](#arrays)  
-   - [Strings](#strings)  
-   - [Dynamic Programming](#dynamic-programming)  
-   - [Graphs](#graphs)  
-   - [Trees](#trees)  
-   - [...More](#more-topics)  
-4. [Contributing](#contributing)  
-5. [Acknowledgements](#acknowledgements)  
-
-
 ## 🧠 Introduction  
 
 Coding can be daunting, but the right resources make all the difference.  
