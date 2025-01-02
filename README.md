@@ -3,11 +3,6 @@
 Welcome to the **BTIT Resources Repository**! 🎉  
 This repository provides a curated collection of resources for coding enthusiasts, featuring links to **important LeetCode and coding questions** to help you excel in competitive programming, interviews, and problem-solving.
 
-### 📌 Strings  
-- **LeetCode Easy**: [Valid Anagram](https://leetcode.com/problems/valid-anagram/)  
-- **LeetCode Medium**: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
-- **LeetCode Hard**: [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)  
-
 ### 📌 Dynamic Programming  
 - **LeetCode Easy**: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  
 - **LeetCode Medium**: [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  
