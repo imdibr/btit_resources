@@ -4,14 +4,6 @@ Welcome to the **BTIT Resources Repository**! 🎉
 This repository provides a curated collection of resources for coding enthusiasts, featuring links to **important LeetCode and coding questions** to help you excel in competitive programming, interviews, and problem-solving.
 
 
-## 🧠 Introduction  
-
-Coding can be daunting, but the right resources make all the difference.  
-This repository contains:  
-- Frequently asked coding problems from platforms like **LeetCode**, **HackerRank**, and **GeeksforGeeks**.  
-- Categorised question sets for targeted preparation.  
-- Problem-solving tips and tricks for each topic.  
-
 ## 📖 How to Use  
 
 1. Browse through the categories listed in [Coding Topics and Resources](#coding-topics-and-resources).  
