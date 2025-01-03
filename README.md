@@ -5,14 +5,6 @@ This repository provides a curated collection of resources for coding enthusiast
 
 
 
-## 🌟 Contributing  
-
-We welcome contributions to make this repository even better!  
-1. Fork the repository.  
-2. Add your questions, solutions, or resources.  
-3. Submit a pull request for review.  
-
----
 
 ## 🙏 Acknowledgements  
 
