@@ -4,9 +4,6 @@ Welcome to the **BTIT Resources Repository**! 🎉
 This repository provides a curated collection of resources for coding enthusiasts, featuring links to **important LeetCode and coding questions** to help you excel in competitive programming, interviews, and problem-solving.
 
 
-### [...More Topics](#)  
-Stay tuned for more topics like **Bit Manipulation**, **Sliding Window**, **Backtracking**, and more!
-
 
 ## 🌟 Contributing  
 
