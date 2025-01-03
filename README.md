@@ -4,11 +4,6 @@ Welcome to the **BTIT Resources Repository**! 🎉
 This repository provides a curated collection of resources for coding enthusiasts, featuring links to **important LeetCode and coding questions** to help you excel in competitive programming, interviews, and problem-solving.
 
 
-### 📌 Graphs  
-- **LeetCode Easy**: [Flood Fill](https://leetcode.com/problems/flood-fill/)  
-- **LeetCode Medium**: [Course Schedule](https://leetcode.com/problems/course-schedule/)  
-- **LeetCode Hard**: [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)  
-
 ### 📌 Trees  
 - **LeetCode Easy**: [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)  
 - **LeetCode Medium**: [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)  
