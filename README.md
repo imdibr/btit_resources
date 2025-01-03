@@ -3,10 +3,6 @@
 Welcome to the **BTIT Resources Repository**! 🎉  
 This repository provides a curated collection of resources for coding enthusiasts, featuring links to **important LeetCode and coding questions** to help you excel in competitive programming, interviews, and problem-solving.
 
-### 📌 Dynamic Programming  
-- **LeetCode Easy**: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  
-- **LeetCode Medium**: [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  
-- **LeetCode Hard**: [Edit Distance](https://leetcode.com/problems/edit-distance/)  
 
 ### 📌 Graphs  
 - **LeetCode Easy**: [Flood Fill](https://leetcode.com/problems/flood-fill/)  
